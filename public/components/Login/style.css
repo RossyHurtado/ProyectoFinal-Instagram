@@ -1,0 +1,36 @@
+.container {
+        position: absolute;
+        top: 25px;
+        left: 305px;
+ }
+   
+.logo {
+        width: 175px;
+        position: absolute;
+        left: 75px;
+        top: 80px;
+    }
+
+    .cardi{
+        background-color: white;
+        width: 330px;
+        height: 500px;
+        position: relative;
+        top: 100px;
+        left:570px;
+        border: 1px solid rgba(var(--b6a,219,219,219),1);
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .photo {
+        position: absolute;
+        width: 420px;
+ }
+
+ .politic {
+    width: 273px;
+    position: absolute;
+    left: 25px;
+    top: 280px;
+}
